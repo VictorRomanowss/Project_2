@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class Main {
     public static void quickSort(int[] slivka, int start, int finish) {
